@@ -59,8 +59,8 @@ Created interactive visualizations to show:
 ---
 
 ### Page 1: Loan Status Overview
-- **Bar Chart:** Fully Paid vs Defaulted loan count
-- **KPI Cards:** Total loans, Total defaults, Default rate (%)
+- **Bar Chart:** Loans by Property Area
+- **KPI Cards:** Total loans, Total defaults, Default rate (%),avg EMI
 - **Pie Chart:** Visual proportion of loan status
 
 **Insight:** Quickly understand overall loan performance and identify default trends.
@@ -68,20 +68,20 @@ Created interactive visualizations to show:
 
 ---
 
-### Page 2: EMI & High-Risk Customers
-- **Table:** Top 10 customers with highest EMI
-- **(Optional) Scatter Plot:** EMI vs Income
-- **Slicers:** Filter by loan status, area, education
+### Page 2: Customer financial behavior & Insights
+- **Line chart:** Average Emi 
+- **(Optional) line column chart:** EMI vs Income
+- **Table**: High risk customers
 
 **Insight:** Spot high EMI customers, assess repayment stress, and flag potential risk.
 ![Page 2](https://github.com/aniketpatil94409/Axis-bank-loan-prediction-dashboard/blob/main/Axis-dashboard-2.jpg)
 
 ---
 
-### Page 3: Demographics & Loan Patterns
-- **Bar Chart:** Loan count by property area
-- **Bar Chart:** Avg income by education
-- **Slicers:** Credit score, education, area, loan status
+### Page 3: Loan Risk zones and predictive
+- **Matrix:** EMI vs Credit Score
+- **line Chart:** Avg EMI over time
+- **100% column chart:** Credit score range
 
 **Insight:** Analyze regional default patterns and understand income trends
 ![Page 3](https://github.com/aniketpatil94409/Axis-bank-loan-prediction-dashboard/blob/main/Axis-dashboard-3.jpg)
