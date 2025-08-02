@@ -64,6 +64,7 @@ Created interactive visualizations to show:
 - **Pie Chart:** Visual proportion of loan status
 
 **Insight:** Quickly understand overall loan performance and identify default trends.
+![Page 1](https://github.com/aniketpatil94409/Axis-bank-loan-prediction-dashboard/blob/main/Axis-dashboard-1.jpg)
 
 ---
 
@@ -73,6 +74,7 @@ Created interactive visualizations to show:
 - **Slicers:** Filter by loan status, area, education
 
 **Insight:** Spot high EMI customers, assess repayment stress, and flag potential risk.
+![Page 2](https://github.com/aniketpatil94409/Axis-bank-loan-prediction-dashboard/blob/main/Axis-dashboard-2.jpg)
 
 ---
 
@@ -82,6 +84,7 @@ Created interactive visualizations to show:
 - **Slicers:** Credit score, education, area, loan status
 
 **Insight:** Analyze regional default patterns and understand income trends
+![Page 3](https://github.com/aniketpatil94409/Axis-bank-loan-prediction-dashboard/blob/main/Axis-dashboard-3.jpg)
 
 ## Python EDA:
 - Cleaned and explored dataset using pandas
